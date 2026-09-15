@@ -1,5 +1,5 @@
 ---
-name: strategic-thinking-mindset
+name: strategic-thinking-skill
 description: Applies corporate strategic thinking and mindset to a business situation — first asking for whatever context is missing (business, objective, time horizon, scope), then applying the right framework, distinguishing whether the request is strategic (long-term) or tactical (short-term). Covers environment frameworks (VUCA, BANI, PESTEL, scenario planning), competitive and portfolio analysis (SWOT, Porter's Five Forces, VRIO, BCG, GE-McKinsey), business model and growth (Business Model Canvas, Ansoff, Blue Ocean, Jobs to be Done), organization and goals (McKinsey 7S, SMART, OKR, Balanced Scorecard), decision-making and change (Cynefin, Six Thinking Hats, Kotter), and financial fundamentals / strategic narrative. Returns a structured report with prioritized recommendations. Use when the user says "strategy", "SWOT", "PESTEL", "strategic plan", "competitive analysis", "business model", "Business Model Canvas", "McKinsey 7S", "OKR", "BCG matrix", or when they need to expand, invest, or decide something complex.
 ---
 
